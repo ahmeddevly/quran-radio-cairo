@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://quran-radio-cairo.vercel.app/sitemap.xml
